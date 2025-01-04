@@ -1,0 +1,7 @@
+paho.mqtt.client
+ssl
+json
+csv
+os
+asyncio
+sqlalchemy
