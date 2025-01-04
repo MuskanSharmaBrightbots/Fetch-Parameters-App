@@ -1,4 +1,4 @@
-
+!pip install paho
 
 import streamlit as st
 import asyncio
