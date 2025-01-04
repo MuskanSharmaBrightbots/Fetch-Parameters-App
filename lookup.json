@@ -1,0 +1,17 @@
+{
+    
+    "100D": "RTC",
+    "1004": "Motor PWM Value — Manual",
+    "100A": "Brush motor PWM value —Auto ",
+    "100C": "Sensor Status",
+    "1010": "Motor Over Current Limits",
+    "1014": "Rotational Pulse Count values",
+    "101E": "Over Current Fault Conditions",
+    "1031": "Wheel diameter in Millimeter",
+    "1034": "Error Reset Count",
+    "1035": "Valid Communication Distance",
+    "1022": "Over Current Fault Conditions",
+    "1019": "Device Info"
+  }
+
+ 
